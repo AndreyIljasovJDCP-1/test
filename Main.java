@@ -4,7 +4,7 @@ public class Main {
         System.out.println("Hello world! First project in VSCode starts");
         int x=50;
         int y=30;
-        System.out.println(Test.multy(x, y));
-        System.out.println(Test.summ(x, y));
+        System.out.println(MathOperation.multy(x, y));
+        System.out.println(MathOperation.summ(x, y));
     }
 }
