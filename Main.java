@@ -5,5 +5,6 @@ public class Main {
         int x=50;
         int y=30;
         System.out.println(Test.multy(x, y));
+        //return to 1.0
     }
 }
