@@ -3,8 +3,4 @@ public class MathOperation {
         return x * y;
     }
 
-    public static int summ(int x, int y) {
-        return x + y;
-
-    }
 }
